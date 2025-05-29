@@ -32,23 +32,3 @@ This project aims to analyze and predict student performance levels using variou
 ├── CAPSTONE_PROJECT.ipynb # Jupyter notebook with full analysis
 ├── figures/ # Visualizations (boxplots, bar charts, confusion matrices)
 ├── README.md # Project overview
-
-bash
-Copy code
-
-## 🔧 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/student-performance-capstone.git
-   cd student-performance-capstone
-Install required packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Open the notebook:
-
-bash
-Copy code
-jupyter notebook CAPSTONE_PROJECT.ipynb
